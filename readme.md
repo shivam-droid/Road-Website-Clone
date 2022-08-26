@@ -5,7 +5,7 @@ Hi there, I'm Shivam</a> 👋
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. 
 
 
-# Assignment 15
+# Road Website Clone
 
 ![ineuro, lco](https://img.shields.io/badge/iNeuron-LCO-blue)
 ![hitesh choudhary](https://img.shields.io/badge/Hitesh--Choudhary-Full--stack--JS--bootcamp-red)
@@ -17,10 +17,11 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ---
 
+## ROAD Website Clone
+
 -   Skills Gained in this project
-    - Learned how to use media query amd make reponsive websites. 
-    - HTML
-    - CSS
+    -  Gained more knowledge about tailwindcss
+    -  Learned to use tailwindcss in less time efficiently.
       
      
 
